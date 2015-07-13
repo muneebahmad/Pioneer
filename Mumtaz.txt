@@ -1,0 +1,14 @@
+------------------------------------------------------------
+|Payroll Client  Algorithmi (c)2014-2015 - JTree v-1.0.5b  |
+------------------------------------------------------------
+
+Name:                         Mumtaz
+ID:                           2
+Advance:                      0
+Attendence:                   Absent
+Hours:                        0:0
+Tax:                          0
+Basic Salary:                 0
+Payable Salary:               0
+
+EOF ->  Mon Mar 16 20:39:23 PKT 2015
